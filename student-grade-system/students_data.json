@@ -1,0 +1,78 @@
+{
+    "202412301": {
+        "name": "Merry",
+        "id": 202412301,
+        "periods": [
+            {
+                "year_level": 1,
+                "semester": 1,
+                "courses": [
+                    {
+                        "name": "CMSC 11",
+                        "units": 2,
+                        "grade": 2.0
+                    },
+                    {
+                        "name": "MATH 18",
+                        "units": 3,
+                        "grade": 2.0
+                    },
+                    {
+                        "name": "CMSC 56",
+                        "units": 3,
+                        "grade": 3.0
+                    }
+                ]
+            },
+            {
+                "year_level": 1,
+                "semester": 2,
+                "courses": [
+                    {
+                        "name": "MATH 53",
+                        "units": 3,
+                        "grade": 2.0
+                    },
+                    {
+                        "name": "CMSC 12",
+                        "units": 2,
+                        "grade": 2.0
+                    }
+                ]
+            },
+            {
+                "year_level": 2,
+                "semester": 1,
+                "courses": [
+                    {
+                        "name": "CMSC 13",
+                        "units": 3,
+                        "grade": 1.5
+                    },
+                    {
+                        "name": "CMSC 154",
+                        "units": 3,
+                        "grade": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    "202412302": {
+        "name": "Grace",
+        "id": 202412302,
+        "periods": [
+            {
+                "year_level": 1,
+                "semester": 2,
+                "courses": [
+                    {
+                        "name": "CMSC 57",
+                        "units": 3,
+                        "grade": 1.75
+                    }
+                ]
+            }
+        ]
+    }
+}
