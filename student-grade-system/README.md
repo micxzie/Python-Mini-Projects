@@ -1,6 +1,7 @@
-# Student Grade System
+# 🎓 Academic Records Management System
 
-A comprehensive Python-based student grade management system that tracks academic performance across multiple students, year levels, and semesters.
+A Python-based, object-oriented application for managing academic records of multiple students,
+including courses, grades, academic periods, and GWA computation with persistent JSON storage.
 
 ## Features
 
