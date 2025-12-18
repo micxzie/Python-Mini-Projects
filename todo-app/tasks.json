@@ -1,0 +1,43 @@
+[
+    {
+        "task": "clean",
+        "completed": true,
+        "done": true,
+        "priority": "Medium"
+    },
+    {
+        "task": "study",
+        "completed": true,
+        "done": true,
+        "priority": "Medium"
+    },
+    {
+        "task": "code",
+        "completed": true,
+        "done": true,
+        "priority": "Medium"
+    },
+    {
+        "task": "clean",
+        "completed": true,
+        "done": false,
+        "priority": "Medium"
+    },
+    {
+        "task": "study code",
+        "completed": true,
+        "priority": "High",
+        "done": true
+    },
+    {
+        "task": "upload on github",
+        "done": true,
+        "priority": "High",
+        "completed": true
+    },
+    {
+        "task": "finalize todo-app",
+        "done": false,
+        "priority": "High"
+    }
+]
